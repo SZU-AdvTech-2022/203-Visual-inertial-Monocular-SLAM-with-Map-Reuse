@@ -1,0 +1,9 @@
+@article{REPO-204,
+    author = "Mur-Artal, Ra{\'u}l and Tard{\'o}s, Juan D",
+    journal = "IEEE Robotics and Automation Letters",
+    number = "2",
+    pages = "796--803",
+    title = "{Visual-inertial Monocular SLAM with Map Reuse}",
+    volume = "2",
+    year = "2017"
+}
